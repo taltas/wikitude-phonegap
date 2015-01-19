@@ -702,7 +702,7 @@ public class WikitudePlugin extends CordovaPlugin implements ArchitectUrlListene
 	 */
 	private static void handleResumeInCordovaWebView(final View rootView) {
 		if (rootView instanceof CordovaWebView) { 
-			((CordovaWebView)rootView).handleResume(true, true);
+			((CordovaWebView)rootView).handleActivityResume(true, true);
 			((CordovaWebView)rootView).clearFocus();
 			((CordovaWebView)rootView).requestFocus();
 		}
