@@ -83,10 +83,6 @@ NSString * const WTArchitectNotificationErrorKey = @"Error";
                  toInterfaceOrientation:[[UIApplication sharedApplication] statusBarOrientation]];
     
     
-    UISwipeGestureRecognizer *swipeBackRecognizer = [[UISwipeGestureRecognizer alloc] initWithTarget:self action:@selector(didSwipeBack:)];
-    swipeBackRecognizer.direction = UISwipeGestureRecognizerDirectionRight;
-    
-    [self.view addGestureRecognizer:swipeBackRecognizer];
 }
 
 - (BOOL)prefersStatusBarHidden
