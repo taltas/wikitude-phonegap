@@ -24,7 +24,7 @@
 		 *      * IR means that only image recognition is used in the ARchitect World.
 		 *  When your ARchitect World uses both, geo and ir, than set this value to "IrAndGeo". Otherwise, if the ARchitectWorld only needs image recognition, placing "IR" will require less features from the device and therefore, support a wider range of devices. Keep in mind that image recognition requires a dual core cpu to work satisfyingly.
 		 */
-		this._augmentedRealityMode = "IrAndGeo"; // "IR" for image recognition worlds only, "Geo" if you want to use Geo AR only
+		this._augmentedRealityMode = "IR"; // "IR" for image recognition worlds only, "Geo" if you want to use Geo AR only
 
 
 		/**
