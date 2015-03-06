@@ -9,6 +9,10 @@
 		 *  This is the SDK Key, provided to you after you purchased the Wikitude SDK from http =//www.wikitude.com/store/.
 		 *  If you're having a trial version, leave this string empty.
 		 */
+        
+        //production key ios
+        this._sdkKey = "iCKIW4X/qsXZsw2R3pYBzI8nEnH53d049D5HfKuKC9VErMfNeYst1FcK3esIJj15XfFUk7JyWi6h3uI4mQHeSpEL2QRBDKUpGA4fCuPQEbej82k8rVqmNc5u8FtimAH0fHFFE91LdpsIuVOtktxgLQoGY3atxbiecgBD/BE4/uVTYWx0ZWRfX+j4epUF7Lrcoj62QfHGGSqpCaPvtyZ/tzPQbpZY5T2ZW2+KWJZSUg8UfpOad7Dmr3y6b+0UNtM8Hc7BG8dHU7Qajm9u6D8QAmN5pAdwhmldHnT5+AfrlsanjmCZBE50B8vG3ViueXGbXmSPqY6ZYZy6xF4J/4IWQl7XhuGKKGUmkIsZI5TrV5KK/pm/PIGpjNwS0VEDMGsB1F9jDlOXnztG5CzaiPByNfQuRtAbRRQ4iaBTrUFRAVkrfhB5a/yZPjl5LgE3iSi1wzPTqrKrqw6QMTog46PWgqrm0tE7kFVHb81xkaouufCpoLAeAwPx8Ug90aVOIqBsjUja3h4RektMAbOuQGXR+5SjuuzvBoGDJV0LpZ+qrClwg56W5aFzQWe3LNUkttCQrP7Ch9YnDClU9xDLBSDmDNM4FfHy65BZnuMlUYr5bFVqablBkgU2YeuPGkp0tDbcDY0vsMeo8QM0wojJEZceXanQSml7MkN3sPtfS62sjxYzlSDYtQ07nnuzekp7leeBsT7p/mTSV+OCNkVe46FuZpsrcUmrFaTdvE3wuBlmQRMCw2bUcJLpRRrq5eVTvVkl"
+        
         //adhoc key
 		this._sdkKey = "r+TY5MEwIv7U9NiYpt6u06PpOw2151as8Gb+GxcffVvjQvaQ8qC/XJXoIl+uXtrFoCidnTa9j2ohe8d1A7vsy8lU70aCwfL/b9F5rtQG/+qjeyWlkwur1k33Ve9nzN6mARiMHnqDm3rVzWlfxognot8bfOCM4GfJa90nMS+RejZTYWx0ZWRfX/EZE7Rkxk/qzl51aVqx+gn21UZZF5P+Uy9rGALKnKSjfIY0XT+Di9VsTC3v3PEBSiLHLHCmEnMsac3Uiijgcs4nWJg2D2HPp5wU8d2gCo7p13Ww9bT+2+jh1D3BIjunG6G7w9nPgM2h+Eg3h0XVJpndxxaDPJ+FdiyJRasMKp4BlG6HAnpP0NMf2Zqzrm4hiOK5Zww0UiLk8DJlqlnjnxQKx3kWedgYQV+KeRcrSzS+AFx0+m89oC/sACcBhhuK+kGf4vSa5QFmeBGZZdnuVUq/l221vnKuABC+wwCHDSK/W6D17z58nHEeDsdOCNR7mwUjzp3lZ4BSC0UPGab/5ykQvYoxennoFyuU2Srq6kNW7XfX2xHoWz34JsDJf1GUDAoLdPxZEmpGtpMSp1j7UWOtCrSDvwwo4SvXezCgWXp4v9DPa7WIQt0oP9Wq0ghhtGJQovVMXhnyMOsF5+F3BCwthZ92rxbKLklvd6DuFfroImiuyK6S+goDEojzdkztxDCoBGr/n3pocVorOgO72eeY6QY3k8A17rH0SXdObHek6hb5j1xlk3E=";
 
